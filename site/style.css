@@ -28,6 +28,16 @@ h2 a, h2 a:hover, h2 a:visited, h2 a:focus {
     margin-bottom: 10px;
 }
 
+.item {
+	height: 300px;
+	width: 350px;
+}
+
+.image {
+	height: 200px;
+	width: 200px;
+}
+	
 .header a {
     color: white;
 }
