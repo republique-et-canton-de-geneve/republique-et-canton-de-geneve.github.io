@@ -143,3 +143,36 @@ em {
 .repo-box {
     padding: 1px 10px 10px;
 }
+table img {
+    width: 68px;
+}
+td, th {
+  border: 1px solid rgb(160 160 160);
+  padding: 8px 10px;
+}
+
+th[scope="col"] {
+  background-color: #505050;
+  color: #fff;
+}
+
+th[scope="row"] {
+  background-color: #d6ecd4;
+}
+
+td {
+  text-align: center;
+}
+
+tr:nth-of-type(even) {
+  background-color: #eee;
+}
+thead {
+      background-color: #c9c9c9;
+}
+
+.fixed-size {
+      width: 300px;
+  height: 253px;
+  object-fit: cover;/
+}
