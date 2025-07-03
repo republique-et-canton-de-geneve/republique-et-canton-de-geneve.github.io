@@ -172,7 +172,7 @@ thead {
 }
 
 .fixed-size {
-      width: 300px;
+    width: 300px;
   height: 253px;
   object-fit: cover;/
 }
