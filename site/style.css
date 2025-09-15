@@ -1,3 +1,5 @@
+
+
 h1 {
     font-size: 3rem;
     line-height: 100%;
@@ -178,9 +180,10 @@ thead {
 }
 
 iframe {
-    margin: 0%;
-    width: 1170px;
-    height: 3890.69px;
-
-    
+display: block;
+  max-width: 100%;
+  width: 100%;
+  min-width: 1200px;
+  height: 6000px;
+  border: none;
 }
